@@ -102,10 +102,6 @@ To decrypt:
 
 Contributions and suggestions are welcome! Please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Author
 
 [shabinfrancis](https://github.com/shabinfrancis)
